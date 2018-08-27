@@ -1,2 +1,2 @@
 # Cheatsheets
-Helped during my OSCP lab days.
+Agrego información útil para IT.
